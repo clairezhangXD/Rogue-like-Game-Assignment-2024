@@ -1,8 +1,8 @@
-# Rogue-like-Game-Assignment-2024
+# Rogue-like-Game-Project-2024
 Adding new features to an existing game (4 member group)
 
-Claire's Takeaways
-Theory concepts applied in this assignment learnt throughout the unit:
+## Claire's Takeaways
+Concepts applied/learned in this project:
 
 - Java
 - Object oriented programming
